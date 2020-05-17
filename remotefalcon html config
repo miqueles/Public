@@ -1,0 +1,276 @@
+<!--
+Used for lichtshow.miqueles.nl
+-->
+
+<style>
+body {
+  background-image: url('https://i.imgur.com/CoHh7ZM.jpg');
+}
+</style>
+<div style="background-color: #ffffff;">
+   <div style="background: #0E0D0D; background-color: #0e0d0d; margin: 0px auto; max-width: 100%;">
+      <table style="background: #0E0D0D; background-color: #0e0d0d; width: 100%;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+         <tbody>
+            <tr>
+               <td style="direction: ltr; font-size: 0px; padding: 0px 0px 0px 0px; text-align: center; vertical-align: top;">
+                  <div class="mj-column-per-100 outlook-group-fix" style="font-size: 13px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+                     <table style="vertical-align: top;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+                        <tbody>
+                           <tr>
+                              <td style="width: 100%;"><img style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" src="https://i.imgur.com/P0v3NjB.png" width="600" height="auto" /></td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </div>
+   <div style="background: #B20000; background-color: #b20000; margin: 0px auto; max-width: 100%;">
+      <table style="background: #B20000; background-color: #b20000; width: 100%;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+         <tbody>
+            <tr>
+               <td style="direction: ltr; font-size: 0px; padding: 9px 0px 9px 0px; text-align: center; vertical-align: top;">
+                  <div class="mj-column-per-100 outlook-group-fix" style="font-size: 13px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+                     <table style="vertical-align: top;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+                        <tbody>
+                           <tr>
+                              <td style="font-size: 0px; padding: 10px 43px 10px 43px; word-break: break-word;">
+                                 <p style="border-top: solid 1px #800000; font-size: 1; margin: 0px auto; width: 100%;">&nbsp;</p>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td style="font-size: 0px; padding: 0px 0px 0px 0px; word-break: break-word;" align="center">
+                                 <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 11px; line-height: 1.5; text-align: center; color: #000000;">
+                                    <p><span style="font-size: 24px; color: #ecf0f1;"><strong>NU AAN HET AFSPELEN</strong></span></p>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td style="font-size: 0px; padding: 0px 9px 0px 9px; word-break: break-word;" align="left">
+                                 <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 11px; line-height: 1.5; text-align: left; color: #000000;">
+                                    <div style="text-align: center;"><span style="font-size: 18px;"><strong><span style="color: #ecf0f1;">{NOW_PLAYING}</span></strong></span></div>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td style="font-size: 0px; padding: 10px 100px 10px 100px; word-break: break-word;">
+                                 <p style="border-top: solid 1px #800000; font-size: 1; margin: 0px auto; width: 100%;">&nbsp;</p>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td style="font-size: 0px; padding: 0px 0px 0px 0px; word-break: break-word;" align="center">
+                                 <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 11px; line-height: 1.5; text-align: center; color: #000000;">
+                                    <p><span style="font-size: 24px; color: #ecf0f1;"><strong>VOLGENDE NUMMER</strong></span></p>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td style="font-size: 0px; padding: 0px 9px 0px 9px; word-break: break-word;" align="left">
+                                 <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 11px; line-height: 1.5; text-align: left; color: #000000;">
+                                    <div style="text-align: center;"><span style="font-size: 18px;"><strong><span style="color: #ecf0f1;">{NEXT_PLAYLIST}</span></strong></span></div>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td style="font-size: 0px; padding: 10px 43px 10px 43px; word-break: break-word;">
+                                 <p style="border-top: solid 1px #800000; font-size: 1; margin: 0px auto; width: 100%;">&nbsp;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </div>
+   <div style="background: #0E0D0D; background-color: #0e0d0d; margin: 0px auto; max-width: 100%;">
+      <table style="background: #0E0D0D; background-color: #0e0d0d; width: 100%;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+         <tbody>
+            <tr>
+               <td style="direction: ltr; font-size: 0px; padding: 0px 0px 0px 0px; text-align: center; vertical-align: top;">
+                  <div class="mj-column-per-100 outlook-group-fix" style="font-size: 13px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+                     <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+                        <tbody>
+                           <tr>
+                              <td style="border-radius: 0px; border-right: 0px #000000 solid; vertical-align: top; padding: 0px 0px 0px NaNpx;">
+                                 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+                                    <tbody>
+                                       <tr>
+                                          <td style="font-size: 0px; padding: 10px 15px 0px 15px; word-break: break-word;" align="center">
+                                             <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 11px; line-height: 1.5; text-align: center; color: #000000;">
+                                                <p style="text-align: center;"><span style="font-size: 24px;"><strong><span style="color: #ffffff;">Welkom bij mij lichtshow!</span></strong></span></p>
+                                             </div>
+                                          </td>
+                                       </tr>
+                                       <tr>
+                                          <td style="font-size: 0px; padding: 0px 15px 15px 15px; word-break: break-word;" align="left">
+                                             <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 11px; line-height: 1.5; text-align: left; color: #000000;">
+                                                <p style="text-align: center;"><span style="font-size: 14px; color: #ecf0f1;">Dit is mijn 2e jaar met een compleet zelfgemaakte lichtshow. Alles wat er hangt is met de hand gemaakt en ook is er een 3d printer in het spel geweest. Ook alles wat er qua electronica achter zit is zelf in elkaar gesoldeerd en precies op maar gemaakt voor deze licht show. </span></p>
+                                                <p style="text-align: center;"><span style="font-size: 14px; color: #ecf0f1;">Je kunt hierboven zien wat er nu afspeelt en wat erna afspeelt, of je kunt kiezen wat je nu wilt afspelen, of toevoegen aan de jukebox hieronder!</span></p>
+                                                <p style="text-align: center;"><span style="font-size: 14px; color: #ecf0f1;">De show is als hobby gemaakt en we hebben met een kleine groep mensen wat info neergezet op https://pixelheads.info </span></p>
+                                             </div>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </div>
+   <div style="background: #B20000; background-color: #b30000; margin: 0px auto; max-width: 100%;">
+      <table style="background: #B20000; background-color: #b20000; width: 100%;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+         <tbody>
+            <tr>
+               <td style="direction: ltr; font-size: 0px; padding: 9px 0px 9px 0px; text-align: center; vertical-align: top;">
+                  <div class="mj-column-per-100 outlook-group-fix" style="font-size: 13px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+                     <table style="vertical-align: top;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+                        <tbody>
+                           <tr>
+                              <td style="font-size: 0px; padding: 0px 0px 0px 0px; word-break: break-word;" align="center">
+                                 <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 11px; line-height: 1.5; text-align: center; color: #000000;">
+                                    <p style="text-align: center;"><span style="font-size: 24px; color: #ecf0f1;"><strong>Bestuur de lichtshow</strong></span></p>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td style="font-size: 0px; padding: 0px 15px 0px 15px; word-break: break-word;" align="left">
+                                 <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 11px; line-height: 1.5; text-align: left; color: #000000;">
+                                    <p style="text-align: center;"><span style="font-size: 14px; color: #ecf0f1;">Kies uit de onderstaande lijst met nummers om af te spelen. Je hoeft het maar één keer te selecteren om het af te spelen. Je selectie wordt toegevoegd aan de rij met nummers die momenteel worden afgespeeld.</span></p>
+                                    <p style="text-align: center;"><em><span style="font-size: 14px; color: #ecf0f1;"><b>(Zie het als een kerst jukebox!)</b></span></em></p>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td style="font-size: 0px; padding: 10px 25px 10px 25px; word-break: break-word;">
+                                 <p style="border-top: solid 1px #8D0000; font-size: 1; margin: 0px auto; width: 100%;">&nbsp;</p>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td style="font-size: 0px; padding: 0px 15px 0px 15px; word-break: break-word;" align="left">
+                                 <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 11px; line-height: 1.5; text-align: left; color: #000000;">
+                                    <div style="text-align: center;"><span style="font-size: 18px;"><strong><span style="color: #ecf0f1;">{PLAYLISTS}</span></strong></span></div>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td style="font-size: 0px; padding: 10px 25px 10px 25px; word-break: break-word;">
+                                 <p style="border-top: solid 1px #8D0000; font-size: 1; margin: 0px auto; width: 100%;">&nbsp;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </div>
+</div>
+<div id="requestSuccessful" style="display: none">
+	<div id="innerRequestSuccessful" style="display: block; background: #009C00; background-color: #009C00; margin: 0px auto; max-width: 100%;">
+         <table style="background: #009C00; background-color: #009C00; width: 100%;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+            <tbody>
+               <tr>
+                  <td style="direction: ltr; font-size: 0px; padding: 15px 0px 0px 0px; text-align: center; vertical-align: top;">
+                     <div class="mj-column-per-100 outlook-group-fix" style="font-size: 13px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+                        <table style="vertical-align: top;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+                           <tbody>
+                              <tr>
+                                 <td style="font-size: 0px; padding: 0px 0px 0px 0px; word-break: break-word;" align="center">
+                                    <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 11px; line-height: 1; text-align: center; color: #000000;">
+                                       <p style="text-align: center;"><span style="font-size: 20px; color: #ecf0f1;"><strong>Successfully Added!</strong></span></p>
+                                    </div>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+  </div>
+</div>
+<div id="requestFailed" style="display: none">
+	<div id="innerRequestFailed" style="display: block; background: #FF7400; background-color: #ff7400; margin: 0px auto; max-width: 100%;">
+   <table style="background: #FF7400; background-color: #ff7400; width: 100%;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+      <tbody>
+         <tr>
+            <td style="direction: ltr; font-size: 0px; padding: 15px 0px 0px 0px; text-align: center; vertical-align: top;">
+               <div class="mj-column-per-100 outlook-group-fix" style="font-size: 13px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+                  <table style="vertical-align: top;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+                     <tbody>
+                        <tr>
+                           <td style="font-size: 0px; padding: 0px 0px 0px 0px; word-break: break-word;" align="center">
+                              <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 11px; line-height: 1; text-align: center; color: #000000;">
+                                 <p style="text-align: center;"><span style="font-size: 20px; color: #ecf0f1;"><strong>Oh No! Something Went Wrong!</strong></span></p>
+                              </div>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+  </div>
+</div>
+<div id="requestPlaying" style="display: none">
+	<div id="innerrequestPlaying" style="display: block; background: #FF7400; background-color: #ff7400; margin: 0px auto; max-width: 100%;">
+   <table style="background: #FF7400; background-color: #ff7400; width: 100%;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+      <tbody>
+         <tr>
+            <td style="direction: ltr; font-size: 0px; padding: 15px 0px 0px 0px; text-align: center; vertical-align: top;">
+               <div class="mj-column-per-100 outlook-group-fix" style="font-size: 13px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+                  <table style="vertical-align: top;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+                     <tbody>
+                        <tr>
+                           <td style="font-size: 0px; padding: 0px 0px 0px 0px; word-break: break-word;" align="center">
+                              <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 11px; line-height: 1; text-align: center; color: #000000;">
+                                 <p style="text-align: center;"><span style="font-size: 20px; color: #ecf0f1;"><strong>PLAYLIST IS FULL!<br />TRY AFTER THIS SONG HAS FINISHED</strong></span></p>
+                              </div>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+	</div>
+</div>
+<div style="background: #05000; background-color: #050000; margin: 0px auto; max-width: 100%;">
+   <table style="background: #050000; background-color: #050000; width: 100%;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+      <tbody>
+         <tr>
+            <td style="direction: ltr; font-size: 0px; padding: 9px 0px 9px 0px; text-align: center; vertical-align: top;">
+               <div class="mj-column-per-100 outlook-group-fix" style="font-size: 13px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+                  <table style="vertical-align: top;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+                     <tbody>
+                        <tr>
+                           <td style="font-size: 0px; padding: 0px 0px 0px 0px; word-break: break-word;" align="center">
+                              <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 11px; line-height: 1.5; text-align: center; color: #000000;">
+                                 <p><span style="font-size: 14px;"><span style="color: #ffffff;">Vrolijk kerstfeest en een gelukkig nieuwjaar gewenst!</span></span></p>
+                                 <p><span style="font-size: 14px;"><span style="color: #ffffff;">De beste wensen,<br />Michael<br />Lichtshow.miqueles.nl</span></span></p>
+                              </div>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+</div>
