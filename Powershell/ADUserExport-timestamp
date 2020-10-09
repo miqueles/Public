@@ -1,0 +1,6 @@
+$CSVPath = "c:\temp\export.csv"
+
+$timediff = New-TimeSpan -end 31-12-2018 -start (get-date)
+$DateCutOff=(Get-Date).AddDays($timediff.Days)
+
+get-aduser -filter * -Property whenCreated | Where-Object {$_.whenCreated -gt $DateCutOff} | Select-Object Name, SamAccountName, whenCreated | Export-Csv -NoClobber -NoTypeInformation -Path $CSVPath
